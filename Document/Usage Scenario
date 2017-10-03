@@ -1,8 +1,0 @@
-Usage Scenario:
-School of Programming is a web application which will provide tutorials of different programming and web development languages. 
-This application will be used by two types of user: admin and general user.
-Admin can add, search, edit or delete the content of this application through content management system. General users will go through the content to learn them. 
-Admin will add question for quiz exam. A user needs to register by providing necessary information such as name, username, email, password etc. 
-After registration process, a user can sign in, view the tutorials and participate in the quiz.  
-A user can participate in schedule quiz and practice quiz. The schedule quiz will be taken after a certain time from the registration. For more practice, a user can participate in the practice quiz at any time after the schedule quiz. 
-Each user will get different set of questions in the quiz. There will be fixed time for each quiz. There will be multiple choice and true/false type questions. After giving the quizzes, the users will get their marks.
